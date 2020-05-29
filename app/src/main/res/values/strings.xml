@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothSimple</string>
+    <string name="bluetoothtest">BluetoothTest</string>
+    <string name="on_off">On Off</string>
+    <string name="visible">Visible</string>
+    <string name="look">Look</string>
+</resources>
